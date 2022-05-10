@@ -54,7 +54,17 @@ To deploy the web application, you can use your terminal. `cd` into the top fold
 ```python
 voila ./etf_analyzer.ipynb
 ```
+Here is a demonstration for running voila from a terminal:
+
+
+![Voila from GitBash](./Images/begin_voila_from_terminal.gif)
+
 The jupyter notebook will deploy as an interactive web application in your default browser.
+
+A sample session in the web browser and the interaction available with the plots is displayed below:
+
+
+![Interactive Web Application by Voila](./Images/voila_demo.gif)
 
 ## Data Sources
 
